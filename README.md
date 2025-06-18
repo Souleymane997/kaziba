@@ -1,10 +1,12 @@
 # kaziba
 
-A new Flutter project.
+une Application web burkinabé permettant d'acceder aux informations vraies concernant l'actualité de la lutte que mène les FDS et VDP au burkina Faso contre le terrorisme et l'imperialisme 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Avoir un ordinateur
+- avoir installé flutter
+- savoir utiliser firebase 
 
 A few resources to get you started if this is your first Flutter project:
 
